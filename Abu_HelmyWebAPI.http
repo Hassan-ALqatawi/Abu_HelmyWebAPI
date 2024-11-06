@@ -1,0 +1,6 @@
+@Abu_HelmyWebAPI_HostAddress = http://localhost:5172
+
+GET {{Abu_HelmyWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
